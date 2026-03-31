@@ -40,7 +40,7 @@ Server Management
 
 ## REFERENCES
 Name: Chris Makhubed <br>
-Contact No:0615499507 <br>
+Contact No: 0615499507 <br>
 Company: Takealot <br>
 Name: Keorapetse Mangadi <br>
 Contact No: 0836695800 <br>
