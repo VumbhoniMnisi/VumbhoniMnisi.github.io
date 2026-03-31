@@ -3,7 +3,7 @@
 I am a 3rd year Applications Development student at CPUT. I am eager to apply my growing skills in Applications Development and programming to a dynamic and innovative environment. Through my studies, I have gained hands on experience in Java, Python, SQL, Networking, and I am looking forward to demonstrating my creativity, problem solving abilities, and my strong work ethic to your team.
 
 ## CONTACT 
-Phone: +27719943743   |
+Phone: +27719943743   <br>
 Email: 222929456@mycput.ac.za
 
 ## Work History
@@ -14,35 +14,34 @@ Audio Visual Technician, FNB, Aug 2011 – Current.
 
 ## Educational History
 ### Diploma/ Degree
-Diploma in Applications Development |
+Diploma in Applications Development <br>
 Cape Peninsula University of Technology
 ### Certificate
-Cisco Certified Network Associate |
+Cisco Certified Network Associate <br>
 Cape Peninsula University of Technology
 ### Diploma
-Diploma in Sound Engineering |
+Diploma in Sound Engineering <br>
 Academy of Sound Engineering
 ### Certificate
-N2 industrial Electronics |
+N2 industrial Electronics <br>
 Ekurhuleni West College
 ### National Senior Certificate
 Orhovelani High School
 
 ## Skills
-Java, Python (OOP) |
-Networking (CCNA) |
-Project Management |
+Java, Python (OOP) <br>
+Networking (CCNA) <br>
+Project Management <br>
 Database Management 
 SQL
-MySQL Workbench
-DATA Normalization |
+MySQL Workbench <br>
+DATA Normalization <br>
 Server Management
 
 ## REFERENCES
-Name: Chris Makhubedu |
-Contact No:0615499507 |
-Company: Takealot |
-Name: Keorapetse Mangadi |
-Contact No: 0836695800 |
-Company: FNB |
-
+Name: Chris Makhubed <br>
+Contact No:0615499507 <br>
+Company: Takealot <br>
+Name: Keorapetse Mangadi <br>
+Contact No: 0836695800 <br>
+Company: FNB
