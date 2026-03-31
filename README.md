@@ -7,10 +7,10 @@ Phone: +27719943743   <br>
 Email: 222929456@mycput.ac.za
 
 ## Work History
-Audio Visual Technician, FNB, Aug 2011 – Current.
-•	Technical Support.
-•	Network and Connectivity Maintenance. 
-•	Live Event Streaming, and Online Conferences.
+Audio Visual Technician, FNB, Aug 2011 – Current.<br>
+*	Technical Support.<br>
+*	Network and Connectivity Maintenance.<br> 
+*	Live Event Streaming, and Online Conferences.
 
 ## Educational History
 ### Diploma/ Degree
