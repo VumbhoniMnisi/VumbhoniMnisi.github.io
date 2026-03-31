@@ -4,7 +4,7 @@ Vumbhoni Clifford Mnisi
 I am a 3rd year Applications Development student at CPUT. I am eager to apply my growing skills in Applications Development and programming to a dynamic and innovative environment. Through my studies, I have gained hands on experience in Java, Python, SQL, Networking, and I am looking forward to demonstrating my creativity, problem solving abilities, and my strong work ethic to your team.
 
 ## CONTACT 
-Phone: +27719943743| |
+Phone: +27719943743   |
 Email: 222929456@mycput.ac.za
 
 ## Work History
