@@ -14,16 +14,16 @@ Audio Visual Technician, FNB, Aug 2011 – Current.<br>
 
 ## Educational History
 ### Diploma/ Degree
-Diploma in Applications Development <br>
+Diploma in Applications Development January 2024 - current<br>
 Cape Peninsula University of Technology
 ### Certificate
-Cisco Certified Network Associate <br>
+Cisco Certified Network Associate 2022<br>
 Cape Peninsula University of Technology
 ### Diploma
-Diploma in Sound Engineering <br>
+Diploma in Sound Engineering 2012<br>
 Academy of Sound Engineering
 ### Certificate
-N2 industrial Electronics <br>
+N2 industrial Electronics 2007<br>
 Ekurhuleni West College
 ### National Senior Certificate
 Orhovelani High School
@@ -32,8 +32,8 @@ Orhovelani High School
 Java, Python (OOP) <br>
 Networking (CCNA) <br>
 Project Management <br>
-Database Management 
-SQL
+Database Management<br> 
+SQL<br>
 MySQL Workbench <br>
 DATA Normalization <br>
 Server Management
