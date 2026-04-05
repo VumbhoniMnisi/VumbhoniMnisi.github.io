@@ -46,6 +46,5 @@ Name: Keorapetse Mangadi <br>
 Contact No: 0836695800 <br>
 Company: FNB
 <video width="640" height="360" controls>
-  <source src="C:Users\MNISIV\Downloads\Vumbhoni Mnisi mock interview (2)" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="./Vumbhoni Mnisi mock interview (2)" type="video/mp4">
 </video>
