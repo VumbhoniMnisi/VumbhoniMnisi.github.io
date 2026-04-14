@@ -24,14 +24,14 @@ I successfully created a professional, well-formatted CV using Markdown that dis
 ### Reflection on Mock Interview Video
 
 ### Situation
-I mock interview video embeded into my GitHub portfolio demonstrates my interview skills.<br>
-It is also meant to show that I can work under pressure as I am progressing with my studies while having a full time job.
+A mock interview video embeded into my GitHub portfolio demonstrating my interview skills.<br>
+
 
 ### Task
-Record a mock interview video and embed it so that portential employers visiting my portfolio can watch it directly on my page.
+Record a mock interview video introducing myself and embed it so that portential employers visiting my portfolio can watch it directly on my page.
 
 ### Action
-I recorded my mock interview response using my phone's camera and microphone. I named the file `mock-interview.mp4`. I uploaded the video to my GitHub repository, then used the HTML `<video>` tag with the correct source path to embed it. I also added `controls` attribute so viewers can play, pause, and adjust volume.
+I recorded my mock interview using my phone's camera and microphone. I named the file `mock-interview.mp4`. I uploaded the video to my GitHub repository, then used the HTML `<video>` tag with the correct source path to embed it. I also added `controls` attribute so viewers can play, pause, and adjust volume.
 
 ### Result
 The video now plays successfully on my GitHub Pages site portfolio.
