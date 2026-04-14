@@ -31,7 +31,7 @@ A mock interview video embeded into my GitHub portfolio demonstrating my intervi
 Record a mock interview video introducing myself and embed it so that portential employers visiting my portfolio can watch it directly on my page.
 
 ### Action
-I recorded my mock interview using my phone's camera and microphone. I named the file `mock-interview.mp4`. I uploaded the video to my GitHub repository, then used the HTML `<video>` tag with the correct source path to embed it. I also added `controls` attribute so viewers can play, pause, and adjust volume.
+I recorded my mock interview introducing myself using my phone's camera and microphone. I named the file `mock-interview.mp4`. I uploaded the video to my GitHub repository, then used the HTML `<video>` tag with the correct source path to embed it. I also added `controls` attribute so viewers can play, pause, and adjust volume.
 
 ### Result
 The video now plays successfully on my GitHub Pages site portfolio.
