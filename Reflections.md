@@ -1,4 +1,4 @@
-## REFLECTIONS (using the star method.)
+## REFLECTIONS
 
 ### Reflection on Coding in Markdown 
 
