@@ -1,7 +1,6 @@
-My Portfolio
+Vumbhoni Clifford Mnisi
 Home | PC-Revival | Team Charter | User Stories | Product Backlog | Sprint Backlog | Agile Logbook
 
-Vumbhoni Clifford Mnisi
 Profile
 I am a 3rd year Applications Development student at CPUT.
 ## Vumbhoni Clifford Mnisi
