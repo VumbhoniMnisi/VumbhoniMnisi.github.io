@@ -1,5 +1,5 @@
 PC-Revival Project
-Home | Team Charter | User Stories | Product Backlog | Sprint Backlog | Agile Logbook
+[Home](REAME.md) | Team Charter | User Stories | Product Backlog | Sprint Backlog | Agile Logbook
 
 Project Overview
 PC-Revival is the project I worked on during my third year of Applications Development.
