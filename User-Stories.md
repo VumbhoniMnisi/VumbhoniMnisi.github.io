@@ -1,6 +1,6 @@
 [Home](README.md) | [PC-Revival](PC-Revival.md) | [Team Charter](Team-Charter.md) | [User Stories](User-Stories.md) | [Product Backlog](Product-backlog.md) | [Sprint Backlog](Sprint-backlog.md) | [Agile Logbook](Agile-logbook.md)
 
-##User Stories
+## User Stories
 
 
 During the PC Revival project, user requirements were converted into user stories and then broken down into smaller tasks. Trello was used to organise these activities so that the team could identify the work required and monitor its progress. This supported our Agile process because larger requirements could be divided into manageable pieces of work.
