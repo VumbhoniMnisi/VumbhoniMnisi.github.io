@@ -1,4 +1,9 @@
+My Portfolio
 Home | PC-Revival | Team Charter | User Stories | Product Backlog | Sprint Backlog | Agile Logbook
+
+Vumbhoni Clifford Mnisi
+Profile
+I am a 3rd year Applications Development student at CPUT.
 ## Vumbhoni Clifford Mnisi
 ## Profile
 I am a 3rd year Applications Development student at CPUT. I am eager to apply my growing skills in Applications Development and programming to a dynamic and innovative environment. Through my studies, I have gained hands on experience in Java, Python, SQL, Networking, and I am looking forward to demonstrating my creativity, problem solving abilities, and my strong work ethic to your team.
