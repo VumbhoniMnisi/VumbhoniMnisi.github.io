@@ -1,4 +1,4 @@
-[Home](README.md) | [PC-Revival](PC-Revival.md) | [Team Charter] | [User Stories] | [Product Backlog] | [Sprint Backlog] | [Agile Logbook]
+[Home](README.md) | [PC-Revival](PC-Revival.md) | [Team Charter](Team-Charter.md) | [User Stories](User-Stories.md) | [Product Backlog](Product-backlog.md) | [Sprint Backlog](Sprint-backlog.md) | [Agile Logbook](Agile-logbook.md)
 
 Profile
 I am a 3rd year Applications Development student at CPUT.
