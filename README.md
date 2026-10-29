@@ -1,4 +1,3 @@
-Vumbhoni Clifford Mnisi
 Home | PC-Revival | Team Charter | User Stories | Product Backlog | Sprint Backlog | Agile Logbook
 
 Profile
