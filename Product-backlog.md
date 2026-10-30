@@ -1,7 +1,7 @@
 [Home](README.md) | [PC-Revival](PC-Revival.md) | [Team Charter](Team-Charter.md) | [User Stories](User-Stories.md) | [Product Backlog](Product-backlog.md) | [Sprint Backlog](Sprint-backlog.md) | [Agile Logbook](Agile-logbook.md)
 
-4. Product Backlog
-4.1 Prioritisation approach
+## Product Backlog
+### Prioritisation approach
 
 The product backlog is ordered using a practical version of the MoSCoW method:
 
@@ -12,7 +12,7 @@ Won’t have now: Outside the present project scope.
 
 Story points use relative effort. A higher number indicates greater uncertainty, effort or technical complexity. Story points are planning estimates and not hours.
 
-4.2 Prioritised product backlog
+### Prioritised product backlog
 ID	Backlog item	Priority	Story points	Main dependency	Completion evidence
 |PB01|	Responsive navigation and core page structure	|Must	|3	|None	|Working navigation screenshots|
 |PB02|	Service and pricing catalogue|	Must	|3	|PB01|	Services page|
@@ -32,21 +32,9 @@ ID	Backlog item	Priority	Story points	Main dependency	Completion evidence
 |PB16|	Testimonials section	|Could	|3	|Approved testimonial content	|Interface screenshot|
 |PB17|	Online payment facility	|Won’t have now|	13|	Payment provider and security design|	Future enhancement|
 |PB18|	Automated repair notifications	|Could|	8	|Repair tracking and messaging service	|Future demonstration|
-4.3 Product Backlog evidence
+### Product Backlog evidence
 
-Display the following:
-
-Full Trello backlog screenshot.
-Close-up screenshot showing priority labels.
-Screenshot showing story points.
-Screenshot showing acceptance criteria.
-Screenshot of backlog items moving from backlog to a sprint.
-GitHub evidence of completed backlog items.
-Suggested caption
-
-Figure 3: Prioritised PC Revival product backlog. Items are ordered according to customer value, technical dependency and the need to deliver a functional minimum viable product before optional enhancements.
-
-4.4 Product Backlog reflection
+### Product Backlog reflection
 
 The product backlog taught me that not every idea should be developed immediately. PC Revival includes repairs, upgrades, refurbished-laptop sales, tracking, customer communication and possible payment features. Treating all of these as equal priorities would create too much work and increase the risk of leaving essential features incomplete.
 
