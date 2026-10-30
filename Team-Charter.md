@@ -11,6 +11,6 @@ To collaboratively plan, design, develop, test and present a reliable and user-f
 
 The supplied charter already covers team purpose and values, decision-making, conflict resolution, Agile workflow, communication methods, goals, success measures, and roles and responsibilities.<br>
 [Business Team Charter Collaboration.pdf](https://github.com/VumbhoniMnisi/VumbhoniMnisi.github.io/blob/main/Business%20Team%20Charter%20Collaboration.pdf)<br>
-<img src="https://raw.githubusercontent.com/VumbhoniMnisi/VumbhoniMnisi.github.io/main/TeamCharter.png" alt="Team Charter">
+<img src="TeamCharter.png" alt="Team Charter">
 
 
