@@ -33,7 +33,6 @@ Story points use relative effort. A higher number indicates greater uncertainty,
 |PB16|	Testimonials section	|Could	|3	|Approved testimonial content	|Interface screenshot|
 |PB17|	Online payment facility	|Won’t have now|	13|	Payment provider and security design|	Future enhancement|
 |PB18|	Automated repair notifications	|Could|	8	|Repair tracking and messaging service	|Future demonstration|
-### Product Backlog evidence
 
 ### Product Backlog reflection
 
