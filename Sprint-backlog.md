@@ -33,11 +33,11 @@ Provide working customer-facing functionality for repair requests, quotations an
 | Quotation request | Capture quotation enquiries                          | Submission evidence |
 | Error handling    | Provide validation and clear messages                | Invalid-input tests |
 
-Sprint retrospective
+Sprint retrospective<br>
 What went well: User stories gave development a clearer direction.
 What required improvement: Data integration introduced more dependencies than static page design.
 Improvement action: Test database operations as soon as each form is connected instead of waiting until the end of the sprint.
-5.3 Sprint 3: Management, quality and deployment
+### Sprint 3: Management, quality and deployment
 Sprint goal
 
 Improve system completeness, usability and presentation, then prepare the website and portfolio for final submission.
@@ -52,7 +52,7 @@ Improve system completeness, usability and presentation, then prepare the websit
 | Documentation         | Create evidence captions and reflections            | Portfolio pages         |
 | Deployment            | Publish through GitHub Pages                        | Working deployment link |
 
-Sprint retrospective
+Sprint retrospective<br>
 What went well: The product became easier to assess once evidence was connected to individual backlog items.
 What required improvement: Documentation and screenshots should have been captured throughout development.
 Improvement action: Include evidence capture in the Definition of Done for future projects.
