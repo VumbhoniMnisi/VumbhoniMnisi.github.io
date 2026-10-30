@@ -16,19 +16,11 @@ Customer must provide laptop information.
 Customer can describe the laptop problem.
 Required fields are validated.
 A valid request can be submitted.
-
 ### User Story 2: Refurbished Laptops
-
 As a student, I want to view available refurbished laptops so that I can find an affordable laptop for my academic work.
-
 ### User Story 3: Account Registration
-
 As a customer, I want to create an account so that I can access PC Revival's personalised features.
-
 ### User Story 4: Login
-
 As a registered customer, I want to sign in so that I can access my profile and PC Revival services.
-
-
 
 Figure 3: Breakdown of a PC Revival Trello Task. This evidence demonstrates how project work was divided into smaller activities that co
