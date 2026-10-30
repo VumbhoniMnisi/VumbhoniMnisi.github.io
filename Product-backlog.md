@@ -13,7 +13,8 @@ Won’t have now: Outside the present project scope.
 Story points use relative effort. A higher number indicates greater uncertainty, effort or technical complexity. Story points are planning estimates and not hours.
 
 ### Prioritised product backlog
-ID	Backlog item	Priority	Story points	Main dependency	Completion evidence
+|ID	|Backlog item	|Priority	|Story points	|Main dependency	|Completion evidence|
+|------|--------------|--------|--------------|------------|
 |PB01|	Responsive navigation and core page structure	|Must	|3	|None	|Working navigation screenshots|
 |PB02|	Service and pricing catalogue|	Must	|3	|PB01|	Services page|
 |PB03|	Repair-request form	|Must	|5	|PB01	|Successful form submission
