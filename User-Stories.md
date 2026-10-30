@@ -1,24 +1,174 @@
 [Home](README.md) | [PC-Revival](PC-Revival.md) | [Team Charter](Team-Charter.md) | [User Stories](User-Stories.md) | [Product Backlog](Product-backlog.md) | [Sprint Backlog](Sprint-backlog.md) | [Agile Logbook](Agile-logbook.md)
 
 ## User Stories
+   
+### View available services
 
+As a student, I want to view PC Revival’s available services and estimated prices so that I can decide whether the service fits my needs and budget.
 
-During the PC Revival project, user requirements were converted into user stories and then broken down into smaller tasks. Trello was used to organise these activities so that the team could identify the work required and monitor its progress. This supported our Agile process because larger requirements could be divided into manageable pieces of work.
+Acceptance criteria
+The system displays the main repair and upgrade services.
+Every displayed service has a clear description.
+Estimated prices are displayed where available.
+The user can identify whether a service relates to repair, software support, upgrading or laptop sales.
+The service information is readable on common screen sizes.
+Tasks
+Design the services page.
+Create the service-card component.
+Add the approved service descriptions.
+Add estimated pricing.
+Make the layout responsive.
+Test the page on desktop and mobile sizes.
+### Submit a repair request
 
-### User Story 1: Laptop Repair
+As a student, I want to submit a laptop repair request so that PC Revival can assess my device problem.
 
-As a student, I want to submit a laptop repair request so that I can receive assistance with my faulty laptop.
-
-Acceptance Criteria
-
-Customer must enter the required information.
-Customer must provide laptop information.
-Customer can describe the laptop problem.
+Acceptance criteria
+The user can enter contact details.
+The user can describe the laptop and the problem.
 Required fields are validated.
-A valid request can be submitted.
-### User Story 2: Refurbished Laptops
-As a student, I want to view available refurbished laptops so that I can find an affordable laptop for my academic work.
-### User Story 3: Account Registration
-As a customer, I want to create an account so that I can access PC Revival's personalised features.
-### User Story 4: Login
-As a registered customer, I want to sign in so that I can access my profile and PC Revival services.
+The request can be submitted successfully.
+The user receives a clear confirmation.
+The request is stored for later retrieval.
+Tasks
+Design the repair-request form.
+Add fields for customer and device information.
+Implement required-field validation.
+Connect the form to the database.
+Display success and error messages.
+Test valid, incomplete and invalid submissions.
+### Track a repair request
+
+As a student, I want to view the status of my repair request so that I know what progress has been made.
+
+Acceptance criteria
+A repair request can be found using an appropriate identifier.
+The current status is displayed clearly.
+Only valid status information is shown.
+An informative message appears if a request cannot be found.
+Stored request information can be retrieved correctly.
+Tasks
+Define repair-status values.
+Create the status page.
+Implement the data-retrieval function.
+Display request details and status.
+Handle a missing or invalid request.
+Test status retrieval.
+### Browse refurbished laptops
+
+As a student, I want to browse available refurbished laptops so that I can compare affordable options.
+
+Acceptance criteria
+Available laptops are displayed with meaningful details.
+Each laptop shows a price.
+Availability is visible.
+The user can open or view additional product information.
+Unavailable products cannot be presented as immediately available.
+Tasks
+Design the laptop catalogue.
+Create a reusable laptop-card component.
+Configure laptop inventory data.
+Add price and availability indicators.
+Add product-detail navigation.
+Test the catalogue and product display.
+### View laptop details
+
+As a student, I want to view the specifications and condition of a refurbished laptop so that I can determine whether it supports my academic work.
+
+Acceptance criteria
+The page displays the model and relevant specifications.
+The price and availability are visible.
+The condition or refurbishment information is presented.
+The user can return to the catalogue.
+Missing product information is handled correctly.
+Tasks
+Create the product-detail layout.
+Retrieve the selected product.
+Display specifications and price.
+Display condition and availability.
+Add back navigation.
+Test valid and invalid product selections.
+### Request a quotation
+
+As a student, I want to request a quotation so that I can understand the likely cost before committing to a repair or upgrade.
+
+Acceptance criteria
+The quotation form records customer and device details.
+The user can select or describe the required service.
+The form validates compulsory information.
+A successful request is confirmed.
+The quotation request can be retrieved by the team.
+Tasks
+Design the quotation form.
+Add service-selection options.
+Add problem-description fields.
+Implement validation.
+Store the quotation request.
+Test submission and retrieval.
+### Manage repair requests
+
+As an authorised team member, I want to view and update repair requests so that customers receive accurate progress information.
+
+Acceptance criteria
+Authorised users can view submitted repair requests.
+A request can be opened individually.
+The status can be updated.
+Invalid updates are rejected.
+Changes are stored and displayed correctly.
+Tasks
+Create the request-management page.
+Display submitted requests.
+Add request-detail functionality.
+Add status-update controls.
+Save status changes.
+Test authorised and invalid operations.
+### Manage laptop inventory
+
+As an authorised team member, I want to add and update refurbished laptops so that the website shows accurate inventory.
+
+Acceptance criteria
+A laptop record can be created.
+Existing laptop information can be updated.
+Availability can be changed.
+Required values are validated.
+Changes appear in the customer-facing catalogue.
+Tasks
+Create the inventory-management form.
+Add create and update operations.
+Add validation.
+Connect the feature to inventory data.
+Refresh the catalogue after a change.
+Test create, update and availability operations.
+### Use the website on different devices
+
+As a visitor, I want the website to work on desktop and mobile screens so that I can access PC Revival conveniently.
+
+Acceptance criteria
+Navigation remains usable on smaller screens.
+Text does not overlap.
+Forms and buttons are accessible.
+Important content is not cut off horizontally.
+The principal user journeys remain functional.
+Tasks
+Review each page at different widths.
+Improve navigation behaviour.
+Adjust grids and containers.
+Test forms and buttons.
+Correct overflow or alignment problems.
+Record screenshots as evidence.
+### Contact PC Revival
+
+As a visitor, I want to find clear contact information so that I can ask for assistance.
+
+Acceptance criteria
+Contact information is easy to locate.
+The user can send an enquiry through the available method.
+Required enquiry information is validated.
+A confirmation message is displayed.
+The page does not expose unnecessary personal information.
+Tasks
+Design the contact section.
+Add the enquiry form or approved contact method.
+Implement validation.
+Add a confirmation response.
+Test the contact process.
