@@ -10,5 +10,7 @@ The purpose of the PC Revival team is:<br>
 To collaboratively plan, design, develop, test and present a reliable and user-friendly system that supports affordable laptop repairs, upgrades and refurbished-laptop sales for students.<br>
 
 The supplied charter already covers team purpose and values, decision-making, conflict resolution, Agile workflow, communication methods, goals, success measures, and roles and responsibilities.<br>
-[Business Team Charter Collaboration.pdf](https://github.com/VumbhoniMnisi/VumbhoniMnisi.github.io/blob/main/Business%20Team%20Charter%20Collaboration.pdf)
+[Business Team Charter Collaboration.pdf](https://github.com/VumbhoniMnisi/VumbhoniMnisi.github.io/blob/main/Business%20Team%20Charter%20Collaboration.pdf)<br>
+<img src="(https://github.com/VumbhoniMnisi/VumbhoniMnisi.github.io/blob/main/Screenshot%202026-10-29%20192321.png)" alt="Team Charter">
+
 
