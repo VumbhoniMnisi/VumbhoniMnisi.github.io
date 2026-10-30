@@ -6,7 +6,7 @@
 
 As a student, I want to view PC Revival’s available services and estimated prices so that I can decide whether the service fits my needs and budget.
 
-Acceptance criteria<br>
+Acceptance criteria:<br>
 The system displays the main repair and upgrade services.
 Every displayed service has a clear description.
 Estimated prices are displayed where available.
@@ -23,7 +23,7 @@ Test the page on desktop and mobile sizes.
 
 As a student, I want to submit a laptop repair request so that PC Revival can assess my device problem.
 
-Acceptance criteria<br>
+Acceptance criteria:<br>
 The user can enter contact details.
 The user can describe the laptop and the problem.
 Required fields are validated.
