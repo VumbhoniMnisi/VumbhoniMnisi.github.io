@@ -56,21 +56,6 @@ Sprint retrospective<br>
 What went well: The product became easier to assess once evidence was connected to individual backlog items.
 What required improvement: Documentation and screenshots should have been captured throughout development.
 Improvement action: Include evidence capture in the Definition of Done for future projects.
-### Sprint Backlog evidence
-
-Include:<br>
-
-One screenshot for each sprint backlog.
-Sprint goal shown at the top of each board or list.
-Trello cards in To Do, Doing and Done.
-Card owners and labels.
-Acceptance-criteria checklists.
-GitHub commits matching completed sprint tasks.
-Screenshots of completed features.
-Sprint review and retrospective notes.
-Suggested caption
-
-
 ### Sprint Backlog reflection
 
 The sprint backlog helped me understand the difference between all desired project work and the smaller set of work selected for immediate implementation. The product backlog represented the wider product vision, while the sprint backlog focused on the tasks needed to achieve a specific goal.
