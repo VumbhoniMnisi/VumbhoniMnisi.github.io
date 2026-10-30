@@ -11,7 +11,7 @@ To collaboratively plan, design, develop, test and present a reliable and user-f
 
 The supplied charter already covers team purpose and values, decision-making, conflict resolution, Agile workflow, communication methods, goals, success measures, and roles and responsibilities.<br>
 [Business Team Charter Collaboration.pdf](https://github.com/VumbhoniMnisi/VumbhoniMnisi.github.io/blob/main/Business%20Team%20Charter%20Collaboration.pdf)<br>
-<img src="TeamCharter.png" alt="Team Charter"><br>
+<img src="TeamCharter.png" alt="Team Charter">
 ### Team values
 Collaboration<br>
 
@@ -118,8 +118,6 @@ Screenshot of the responsibilities section.
 Link to or screenshot of Trello.
 Screenshot of GitHub collaboration or commit history.
 Suggested evidence caption
-
-Figure 1: PC Revival Agile Team Charter. This artefact records the team’s shared purpose, values, working methods, success criteria and responsibilities. It was included because it demonstrates how the group agreed to collaborate and manage project decisions.
 
 ### Team Charter reflection
 
