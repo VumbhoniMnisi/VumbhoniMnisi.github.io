@@ -6,7 +6,7 @@
 
 As a student, I want to view PC Revival’s available services and estimated prices so that I can decide whether the service fits my needs and budget.
 
-Acceptance criteria:<br>
+Acceptance criteria:
 The system displays the main repair and upgrade services.
 Every displayed service has a clear description.
 Estimated prices are displayed where available.
