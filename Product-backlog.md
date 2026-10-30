@@ -13,26 +13,28 @@ Won’t have now: Outside the present project scope.
 Story points use relative effort. A higher number indicates greater uncertainty, effort or technical complexity. Story points are planning estimates and not hours.
 
 ### Prioritised product backlog
-|ID	|Backlog item	|Priority	|Story points	|Main dependency	|Completion evidence|
-|------|--------------|--------|--------------|------------|------------|
-|PB01|	Responsive navigation and core page structure	|Must	|3	|None	|Working navigation screenshots|
-|PB02|	Service and pricing catalogue|	Must	|3	|PB01|	Services page|
-|PB03|	Repair-request form	|Must	|5	|PB01	|Successful form submission
-|PB04|	Store repair requests	|Must	|8	|PB03, database configuration|	Database record|
-|PB05|  Repair-status tracking	|Must	|8	|PB04	|Status retrieval demonstration|
-|PB06|  Refurbished-laptop catalogue	|Must	|5	|PB01, inventory data|	Catalogue screenshot|
-|PB07|	Laptop-detail view	|Must	|3	|PB06	|Product-detail screenshot|
-|PB08|	Inventory management	|Should	|8	|PB06, authorised access|	Create/update demonstration|
-|PB09|	Repair-request administration	|Should	|8|	PB04, authorised access|	Status update evidence|
-|PB10|	Quotation request	|Should	|5|	PB02	|Quotation submission|
-|PB11|	Contact and enquiry function	|Should	|3	|PB01|	Contact test|
-|PB12|	Responsive testing and corrections	|Must	|5	|PB01–PB11|	Desktop/mobile evidence|
-|PB13|	Input validation and error handling	|Must	|5|	Relevant forms|	Invalid-input tests|
-|PB14|	GitHub Pages deployment	|Must	|3	|Stable build	Published portfolio/project link|
-|PB15|	Automated or documented feature testing	|Should|	5|	Implemented stories|	Test results|
-|PB16|	Testimonials section	|Could	|3	|Approved testimonial content	|Interface screenshot|
-|PB17|	Online payment facility	|Won’t have now|	13|	Payment provider and security design|	Future enhancement|
-|PB18|	Automated repair notifications	|Could|	8	|Repair tracking and messaging service	|Future demonstration|
+### Prioritised product backlog
+
+| ID   | Backlog item                                | Priority       | Story points | Main dependency                  | Completion evidence                  |
+|------|---------------------------------------------|----------------|--------------|----------------------------------|--------------------------------------|
+| PB01 | Responsive navigation and core page structure | Must         | 3            | None                             | Working navigation screenshots       |
+| PB02 | Service and pricing catalogue               | Must           | 3            | PB01                             | Services page                        |
+| PB03 | Repair-request form                         | Must           | 5            | PB01                             | Successful form submission           |
+| PB04 | Store repair requests                       | Must           | 8            | PB03, database configuration     | Database record                      |
+| PB05 | Repair-status tracking                      | Must           | 8            | PB04                             | Status retrieval demonstration       |
+| PB06 | Refurbished-laptop catalogue                | Must           | 5            | PB01, inventory data             | Catalogue screenshot                 |
+| PB07 | Laptop-detail view                          | Must           | 3            | PB06                             | Product-detail screenshot            |
+| PB08 | Inventory management                        | Should         | 8            | PB06, authorised access          | Create/update demonstration          |
+| PB09 | Repair-request administration               | Should         | 8            | PB04, authorised access          | Status update evidence               |
+| PB10 | Quotation request                           | Should         | 5            | PB02                             | Quotation submission                 |
+| PB11 | Contact and enquiry function                | Should         | 3            | PB01                             | Contact test                         |
+| PB12 | Responsive testing and corrections          | Must           | 5            | PB01–PB11                        | Desktop/mobile evidence              |
+| PB13 | Input validation and error handling         | Must           | 5            | Relevant forms                   | Invalid-input tests                  |
+| PB14 | GitHub Pages deployment                     | Must           | 3            | Stable build                     | Published portfolio/project link     |
+| PB15 | Automated or documented feature testing     | Should         | 5            | Implemented stories              | Test results                         |
+| PB16 | Testimonials section                        | Could          | 3            | Approved testimonial content     | Interface screenshot                 |
+| PB17 | Online payment facility                     | Won't have now | 13           | Payment provider and security design | Future enhancement               |
+| PB18 | Automated repair notifications              | Could          | 8            | Repair tracking and messaging service | Future demonstration            |
 
 ### Product Backlog reflection
 
