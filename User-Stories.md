@@ -139,23 +139,6 @@ Add validation.
 Connect the feature to inventory data.
 Refresh the catalogue after a change.
 Test create, update and availability operations.
-### Use the website on different devices
-
-As a visitor, I want the website to work on desktop and mobile screens so that I can access PC Revival conveniently.
-
-Acceptance criteria
-Navigation remains usable on smaller screens.
-Text does not overlap.
-Forms and buttons are accessible.
-Important content is not cut off horizontally.
-The principal user journeys remain functional.
-Tasks
-Review each page at different widths.
-Improve navigation behaviour.
-Adjust grids and containers.
-Test forms and buttons.
-Correct overflow or alignment problems.
-Record screenshots as evidence.
 ### Contact PC Revival
 
 As a visitor, I want to find clear contact information so that I can ask for assistance.
