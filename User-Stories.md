@@ -22,5 +22,3 @@ As a student, I want to view available refurbished laptops so that I can find an
 As a customer, I want to create an account so that I can access PC Revival's personalised features.
 ### User Story 4: Login
 As a registered customer, I want to sign in so that I can access my profile and PC Revival services.
-
-Figure 3: Breakdown of a PC Revival Trello Task. This evidence demonstrates how project work was divided into smaller activities that co
