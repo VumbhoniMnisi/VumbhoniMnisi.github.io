@@ -6,7 +6,7 @@
 
 As a student, I want to view PC Revival’s available services and estimated prices so that I can decide whether the service fits my needs and budget.
 
-Acceptance criteria
+Acceptance criteria<br>
 The system displays the main repair and upgrade services.
 Every displayed service has a clear description.
 Estimated prices are displayed where available.
@@ -23,7 +23,7 @@ Test the page on desktop and mobile sizes.
 
 As a student, I want to submit a laptop repair request so that PC Revival can assess my device problem.
 
-Acceptance criteria
+Acceptance criteria<br>
 The user can enter contact details.
 The user can describe the laptop and the problem.
 Required fields are validated.
@@ -41,7 +41,7 @@ Test valid, incomplete and invalid submissions.
 
 As a student, I want to view the status of my repair request so that I know what progress has been made.
 
-Acceptance criteria
+Acceptance criteria<br>
 A repair request can be found using an appropriate identifier.
 The current status is displayed clearly.
 Only valid status information is shown.
@@ -58,7 +58,7 @@ Test status retrieval.
 
 As a student, I want to browse available refurbished laptops so that I can compare affordable options.
 
-Acceptance criteria
+Acceptance criteria<br>
 Available laptops are displayed with meaningful details.
 Each laptop shows a price.
 Availability is visible.
@@ -75,7 +75,7 @@ Test the catalogue and product display.
 
 As a student, I want to view the specifications and condition of a refurbished laptop so that I can determine whether it supports my academic work.
 
-Acceptance criteria
+Acceptance criteria<br>
 The page displays the model and relevant specifications.
 The price and availability are visible.
 The condition or refurbishment information is presented.
@@ -92,7 +92,7 @@ Test valid and invalid product selections.
 
 As a student, I want to request a quotation so that I can understand the likely cost before committing to a repair or upgrade.
 
-Acceptance criteria
+Acceptance criteria<br>
 The quotation form records customer and device details.
 The user can select or describe the required service.
 The form validates compulsory information.
@@ -109,7 +109,7 @@ Test submission and retrieval.
 
 As an authorised team member, I want to view and update repair requests so that customers receive accurate progress information.
 
-Acceptance criteria
+Acceptance criteria<br>
 Authorised users can view submitted repair requests.
 A request can be opened individually.
 The status can be updated.
@@ -126,7 +126,7 @@ Test authorised and invalid operations.
 
 As an authorised team member, I want to add and update refurbished laptops so that the website shows accurate inventory.
 
-Acceptance criteria
+Acceptance criteria<br>
 A laptop record can be created.
 Existing laptop information can be updated.
 Availability can be changed.
@@ -143,7 +143,7 @@ Test create, update and availability operations.
 
 As a visitor, I want to find clear contact information so that I can ask for assistance.
 
-Acceptance criteria
+Acceptance criteria<br>
 Contact information is easy to locate.
 The user can send an enquiry through the available method.
 Required enquiry information is validated.
